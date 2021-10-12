@@ -24,7 +24,7 @@ project_crispdm/
 `code.ipynb`
 Main code; contains all the code that reflects the exploration, analysis and visualization of the data
 
-dataset:
+`dataset`:
 - Listings, including full descriptions and average review score
 - Reviews, including unique id for each reviewer and detailed comments
 - Calendar, including listing id and the price and availability for that day
@@ -85,4 +85,4 @@ jupyter notebook code.ipynb
 ```
 
 # Author
-* Danny Lima
+Danny Lima
